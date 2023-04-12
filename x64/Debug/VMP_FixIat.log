@@ -1,0 +1,41 @@
+﻿  api.cpp
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\api.cpp(364,30): warning C4101: “e”: 未引用的局部变量
+  iat.cpp
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(69,8): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(79,66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(317,21): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(317,21): warning C4309: “初始化”: 截断常量值
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(317,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(317,46): warning C4309: “初始化”: 截断常量值
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(318,50): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(326,21): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(326,21): warning C4309: “初始化”: 截断常量值
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(332,61): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(340,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(340,27): warning C4309: “初始化”: 截断常量值
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(347,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(347,27): warning C4309: “初始化”: 截断常量值
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\iat.cpp(403,62): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  pefile.cpp
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\pefile.cpp(24,31): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\pefile.cpp(197,56): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\pefile.cpp(200,53): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\pefile.cpp(232,131): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\pefile.cpp(266,18): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  process.cpp
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\process.cpp(141,87): warning C4311: “类型强制转换”: 从“LPVOID”到“uint32_t”的指针截断
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\process.cpp(141,87): warning C4302: “类型强制转换”: 从“LPVOID”到“uint32_t”截断
+  utils.cpp
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(125,18): warning C4477: “sprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“uint64_t”
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(133,87): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(136,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(153,9): warning C4101: “lpstrCustomFilter”: 未引用的局部变量
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(156,9): warning C4101: “lpstrFile”: 未引用的局部变量
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(154,8): warning C4101: “nMaxCustFilter”: 未引用的局部变量
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(177,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C-C++\vmp_fixiat\VMP_FixIat\utils.cpp(180,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  VMP_FixIat.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  VMP_FixIat.vcxproj -> D:\Code\C-C++\vmp_fixiat\x64\Debug\VMP_FixIat.exe
