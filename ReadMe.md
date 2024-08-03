@@ -1,5 +1,9 @@
 # VMP_FixIat
 
+当前仓库已废弃,新仓库:https://github.com/PlaneJun/VMP-Import-Fix
+
+---
+
 搜索需要修复的IAT后进行修复后DUMP。
 
 ## 使用方法
